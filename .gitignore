@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs TensorBoard
+logs/
+
+# GIFs dei test
+results/
+
+# File di sistema
+.DS_Store
